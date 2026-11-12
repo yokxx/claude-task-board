@@ -1,0 +1,14 @@
+{
+  "name": "claude-task-board",
+  "description": "task-board: a Claude Code mod that shows Claude's progress above the prompt",
+  "owner": {
+    "name": "Yoav Fridenson"
+  },
+  "plugins": [
+    {
+      "name": "task-board",
+      "source": "./",
+      "description": "Progress band above the prompt: task %, stages, steps and subagents"
+    }
+  ]
+}

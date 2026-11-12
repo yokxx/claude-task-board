@@ -1,0 +1,11 @@
+{
+  "name": "task-board",
+  "version": "1.0.0",
+  "description": "A band above the Claude Code prompt: the current task with % progress, its stages and steps (explained in Hebrew), and every subagent",
+  "author": { "name": "Yoav Fridenson" },
+  "license": "MIT",
+  "homepage": "https://github.com/yokxx/claude-task-board",
+  "repository": "https://github.com/yokxx/claude-task-board",
+  "keywords": ["mod", "progress", "subagents", "hebrew"],
+  "types": "./types/index.d.ts"
+}
