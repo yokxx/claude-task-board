@@ -58,6 +58,7 @@ claude plugin uninstall task-board
 
 ## Guides
 
+- [Install guide, step by step (Hebrew)](GUIDE.he.md)
 - [How Claude Code mods work, and how to build one (Hebrew)](docs/MODS-GUIDE.he.md)
 - [Instructions for an AI assistant that installs this mod](INSTALL-WITH-AI.md)
 
@@ -78,6 +79,8 @@ MIT
 ```
 
 עונים `y`, ואז Enter.
+
+**מדריך התקנה מלא, צעד אחר צעד:** [GUIDE.he.md](GUIDE.he.md)
 
 **רוצים שה־AI שלכם יתקין?** תדביקו לו: "תתקין לי את המוד לפי ההוראות כאן: https://github.com/yokxx/claude-task-board/blob/main/INSTALL-WITH-AI.md"
 
